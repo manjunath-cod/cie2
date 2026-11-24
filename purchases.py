@@ -10,4 +10,4 @@ if __name__ == "__main__":
     smartphone = int(sys.argv[3])
 
     print("Customer_purchases_bill:", customer_purchases(smartwatch, laptop, smartphone))
-    print("Total_bill:",total_bill)
+    
